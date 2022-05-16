@@ -12,12 +12,12 @@ export default function home() {
       <Head>
         <title>{process.env.userName}</title>
         <meta
-          name="title"
+          name="abashir7866"
           content={`${process.env.userName}'s Portfolio site`}
         />
         <meta
           name="description"
-          content={`${process.env.userName}'s site, you should use Kythi.com btw.`}
+          content={`${process.env.userName}'s site, you should send me some money btw.`}
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -51,7 +51,7 @@ export default function home() {
               open source!
             </span>
           </label>
-          on my github.
+          on Nahsahh's github.
         </div>
       </div>
     </>
