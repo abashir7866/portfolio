@@ -13,8 +13,7 @@ export default function projectIntro() {
         </h1>
 
         <div className="text-lg mt-2 dark:text-gray-300">
-          Over the past few month's I've taken on mutliple Frontend projects
-          most of which related to file hosting, some of them are listed below.
+          i dont have any projects lmao
         </div>
       </div>
       <div className="max-w-4xl mt-4">
