@@ -18,21 +18,21 @@ export default function Hero() {
           </span>
         </h1>
         <p className="dark:text-gray-300 mt-2 text-lg max-w-lg">
-          I&apos;m a web developer based in the UK and I prefer to use{" "}
+          I&apos;m skid from Canada and I write code in{" "}
           <button
-            onClick={() => open("https://tailwindcss.com")}
+            onClick={() => open("https://python.org")}
             className="dark:text-blue-300 text-blue-600 hover:text-blue-700 dark:hover:text-blue-400 cursor-pointer active:translate-y-[1px]"
           >
-            TailwindCSS
+            Python
           </button>{" "}
-          and{" "}
+          and play{" "}
           <button
-            onClick={() => open("https://nextjs.com")}
+            onClick={() => open("https://en.wikipedia.org/wiki/Video_game")}
             className="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700  cursor-pointer active:translate-y-[1px]"
           >
-            NextJS
+            video games
           </button>{" "}
-          to build my Websites with.
+          in my free time
         </p>
       </div>
     </div>
