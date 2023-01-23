@@ -18,7 +18,7 @@ export default function Hero() {
           </span>
         </h1>
         <p className="dark:text-gray-300 mt-2 text-lg max-w-lg">
-          I&apos;m skid from Canada and I write code in{" "}
+          I&apos;m an idiot from Canada and I write code in{" "}
           <button
             onClick={() => open("https://python.org")}
             className="dark:text-blue-300 text-blue-600 hover:text-blue-700 dark:hover:text-blue-400 cursor-pointer active:translate-y-[1px]"
